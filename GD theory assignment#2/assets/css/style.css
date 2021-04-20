@@ -16,7 +16,7 @@ body {
 .executive-summary {
   background-color: white;
   color: black;
-  height: 99vh;
+  height: max-content;
   padding: 20pt;
   border-radius: 20pt;
   margin-top: 10px;
